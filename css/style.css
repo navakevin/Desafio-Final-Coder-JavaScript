@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.titulo {
+    background-image: linear-gradient(rgb(14, 207, 255), rgba(0, 12, 14, 0.5));
+    color: white;
+}
+
+.navbar{
+    /* background-color: black!important; */
+    background-image: linear-gradient(to right, black, white);
+}
+.navbar-brand{
+    color: white!important;
+}
+.nav-link{
+ color: white!important;
+}
+
+.btn-outline-success{
+    color: white!important;
+    background-color: black!important;
+}
+
+footer ul {
+    color: white;
+    padding: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 0%;
+}
+
+h5{
+    color: white!important;
+}
+
+p{
+    color: white!important;
+}
+
+main {
+    background-color: black;
+}
+
+footer {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+.card {
+    /* background-color: white !important; */
+    background-image: linear-gradient(black, white);
+}
+
+.modal-header{
+background-color: black!important;
+}
+
+.modal-body{
+    background-color: black!important;
+    color: white!important;
+}
+.modal-body p{
+    color: white!important;
+}
+
+.modal-footer{
+    background-color: black!important;
+}
+
+.card-text{
+    color: black!important;
+}
+
+.carousel-caption h5, p{
+    color: black!important;
+}
+
+.btn-primary{
+    background-color: #0dcaf0!important;
+    color: black!important;
+}
+
+.card-title{
+    color: black;
+}
+
+.alert{
+    background-color: #0dcaf0;
+    color: black;
+}
+
+.paybody{
+    background-color: black
+}
+
+.paybody h3{
+    color: white;
+}
+
+.imgnormalizada{
+    width: 100%;
+    height: 650px;
+    max-height: 650px;
+  }
+
+  .paypage{
+    margin: 10px;
+    background-image: linear-gradient(rgb(2, 151, 151), black);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .paypage3{
+    margin-right: 25px;
+    background-image: linear-gradient(to left, black,white);
+    color: black;
+  }
+
+  .swal2-confirm{
+    background-color: rgb(14, 207, 255)!important;
+  }

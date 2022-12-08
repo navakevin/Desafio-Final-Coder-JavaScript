@@ -1,0 +1,67 @@
+
+[
+    {
+        "id": 1,
+        "nombreProd": "RTX 4090 Aorus Master",
+        "img": "https://www.geekawhat.com/wp-content/uploads/2022/10/GIgabyte-AORUS-RTX-4090-Master-Feature-Image.jpg",
+        "precio": 400000,
+        "descripcion": "Nvidia RTX 4090 Aorus Master",
+        "categoria": 0
+    },
+    {
+        "id": 2,
+        "nombreProd": "RTX 4080 AORUS MASTER",
+        "img": "https://i0.wp.com/www.tech-critter.com/wp-content/uploads/2022/11/AORUS-GeForce-RTX-4080-16GB-Master-2.jpg?fit=1024%2C768&ssl=1",
+        "precio": 350000,
+        "descripcion": "RTX 4080 AORUS MASTER",
+        "categoria": 0
+    },
+    {
+        "id": 3,
+        "nombreProd": "RTX 3090 AORUS XTREME",
+        "img": "https://m.media-amazon.com/images/I/81EUoU+8C-L._AC_SL1500_.jpg",
+        "precio": 300000,
+        "descripcion": "RTX 3090 AORUS XTREME",
+        "categoria": 1
+    },
+    {
+        "id": 4,
+        "nombreProd": "RTX 3080 MSI Gaming Trio LHR",
+        "img": "Https://www.fullh4rd.com.ar/img/productos/Pics_Prod/video-geforce-rtx-3080-10gb-msi-gaming-z-trio-lhr-0.jpg",
+        "precio": 250000,
+        "descripcion": "RTX 3080 MSI Gaming Trio LHR",
+        "categoria": 1
+    },
+    {
+        "id": 5,
+        "nombreProd": "RTX 3070 ASUS Rog Strix",
+        "img": "https://ultrabytes.com.ar/wp-content/uploads/2022/10/PLACA-DE-VIDEO-NVIDIA-ASUS-RTX-3070-TI-ROG-OC.jpg",
+        "precio": 200000,
+        "descripcion": "RTX 3070 ASUS Rog Strix",
+        "categoria": 1
+    },
+    {
+        "id": 6,
+        "nombreProd": "RTX 3060 Zotac Gaming",
+        "img": "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-a30600e-10m-image01_0.jpg?itok=dJQZjeGv",
+        "precio": 150000,
+        "descripcion": "RTX 3070 Zotac Gaming",
+        "categoria": 1
+},
+{
+    "id": 7,
+    "nombreProd": "RTX 2070 ASUS Rog Strix",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_2X_983174-MLA43408332389_092020-F.webp",
+    "precio": 120000,
+    "descripcion": "RTX 2070 Zotac Gaming",
+    "categoria": 2
+},
+{
+    "id": 8,
+    "nombreProd": "RTX 2060 Zotac Gaming",
+    "img": "https://www.comeros.com.ar/wp-content/uploads/2022/02/ZOTAC-GAMING-GeForce-RTX-2060.jpg",
+    "precio": 100000,
+    "descripcion": "RTX 2060 Zotac Gaming",
+    "categoria": 2
+}
+]
